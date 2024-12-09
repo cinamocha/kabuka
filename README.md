@@ -32,7 +32,7 @@ pip install yfinance
 pip install matplotlib
 ```
 
-4. 実行
+4. **実行**
 ```
 python kabuka.py
 ```
